@@ -1,7 +1,5 @@
 Hi 👋🏾, I'm Amanuel Kebede
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on B2B application using sabre webservice
 - 🌱 I’m currently learning Javascript, React and Python.
 - 💬 Ask me about C#, C++ and .Net frameworks
